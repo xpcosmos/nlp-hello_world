@@ -1,6 +1,5 @@
-notebooks/playgroud.ipynb
 notebooks/description.md
-data/processed_data/imdb
-data/processed_data/wine-reviews
-data/processed_data/tweet-sentiment-extraction/*
-notebooks/playgroud.ipynb
+data/raw_data/imdb
+data/raw_data/wine-reviews
+data/raw_data/tweet-sentiment-extraction/*
+notebooks/playgrounds
