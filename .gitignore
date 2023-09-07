@@ -1,2 +1,6 @@
-src/data
 notebooks/playgroud.ipynb
+notebooks/description.md
+data/processed_data/imdb
+data/processed_data/wine-reviews
+data/processed_data/tweet-sentiment-extraction/*
+
