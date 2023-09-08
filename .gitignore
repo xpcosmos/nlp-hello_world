@@ -4,4 +4,4 @@ data/raw_data/wine-reviews
 data/raw_data/tweet-sentiment-extraction/*
 notebooks/playgrounds
 venv
-/.vscode
+.vscode
