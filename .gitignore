@@ -3,3 +3,4 @@ data/raw_data/imdb
 data/raw_data/wine-reviews
 data/raw_data/tweet-sentiment-extraction/*
 notebooks/playgrounds
+.env/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib
